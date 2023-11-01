@@ -1,6 +1,6 @@
 SIESTA: Efficient Online Continual Learning with Sleep
 =====================================
-This is a PyTorch implementation of the SIESTA algorithm from our paper. An [arXiv pre-print](https://arxiv.org/abs/2303.10725) of our paper is available.
+This is a PyTorch implementation of the SIESTA algorithm from our TMLR-2023 paper. An [arXiv pre-print](https://arxiv.org/abs/2303.10725) of our paper is available.
 
 ![SIESTA](./siesta_overview.png)
 
@@ -10,11 +10,13 @@ SIESTA is a wake/sleep based online continual learning algorithm and designed to
 ## Citation
 If using this code, please cite our paper.
 ```
-@article{yousuf2023siesta,
+@article{harun2023siesta,
   title={SIESTA: Efficient Online Continual Learning with Sleep},
-  author={Yousuf Harun, Md and Gallardo, Jhair and Hayes, Tyler L and Kemker, Ronald and Kanan, Christopher},
-  journal={arXiv e-prints},
-  pages={arXiv--2303},
-  year={2023}
+  author={Md Yousuf Harun and Jhair Gallardo and Tyler L Hayes and Ronald Kemker and Christopher Kanan},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2023},
+  url={https://openreview.net/forum?id=MqDVlBWRRV},
+  note={}
 }
 ```
