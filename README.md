@@ -11,12 +11,12 @@ SIESTA is a wake/sleep based online continual learning algorithm and designed to
 If using this code, please cite our paper.
 ```
 @article{harun2023siesta,
-  title={SIESTA: Efficient Online Continual Learning with Sleep},
-  author={Md Yousuf Harun and Jhair Gallardo and Tyler L Hayes and Ronald Kemker and Christopher Kanan},
-  journal={Transactions on Machine Learning Research},
-  issn={2835-8856},
-  year={2023},
-  url={https://openreview.net/forum?id=MqDVlBWRRV},
-  note={}
+title={{SIESTA}: Efficient Online Continual Learning with Sleep},
+author={Md Yousuf Harun and Jhair Gallardo and Tyler L. Hayes and Ronald Kemker and Christopher Kanan},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=MqDVlBWRRV},
+note={}
 }
 ```
