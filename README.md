@@ -7,6 +7,12 @@ This is a PyTorch implementation of the SIESTA algorithm from our TMLR-2023 pape
 SIESTA is a wake/sleep based online continual learning algorithm and designed to be computationally efficient for resource-constrained applications such as edge devices, mobile phones, robots, AR-VR and so on. It is capable of rapid online learning and inference while awake, but has periods of sleep where it performs offline memory consolidation.
 
 
+## Pre-trained MobileNetV3-L and OPQ Models
+Download pre-trained MobileNetV3-L and Optimized Product Quantization (OPQ) models form [this link](https://drive.google.com/drive/folders/1gPg_FxsvmUj-Mwis_uASy4qcsKMjzCrJ?usp=share_link).
+
+## Acknowledgements
+Thanks for the great code base from [REMIND](https://github.com/tyler-hayes/REMIND)
+
 ## Citation
 If using this code, please cite our paper.
 ```
