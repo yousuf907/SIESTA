@@ -10,6 +10,16 @@ SIESTA is a wake/sleep based online continual learning algorithm and designed to
 ## Pre-trained MobileNetV3-L and OPQ Models
 Download pre-trained MobileNetV3-L and Optimized Product Quantization (OPQ) models form [this link](https://drive.google.com/drive/folders/1gPg_FxsvmUj-Mwis_uASy4qcsKMjzCrJ?usp=share_link).
 
+## Dependencies
+
+The conda environment that we used for SIESTA has been shared in the GitHub repository. 
+The yml file `mobnetenv.yml` includes all the libraries. We have tested the code with the packages and versions 
+specified in the yml file. We used GPU version of the FAISS library, `pip install faiss-gpu`.
+We recommend setting up a `conda` environment using the `mobnetenv.yml` file:
+```
+conda env create -f mobnetenv.yml
+```
+
 ## Acknowledgements
 Thanks for the great code base from [REMIND](https://github.com/tyler-hayes/REMIND)
 
